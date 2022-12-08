@@ -1,0 +1,76 @@
+
+    "settings": {
+        "icons" : true
+    },
+    "firstname": "Deva",
+    "familyname": "Vijayan",
+    "linkedin_id": "Deva Vijayan",
+    "github_id": "devavijayan",
+    "bio_data": {
+        "email": "devavijayan47@gmail.com",
+        "phone": "+91 7892491567",
+
+        },
+        "skills": {
+            "details": 
+                {
+                    "type": "Programming Languages",
+                    "items": [
+                        "HTML",
+                        "CSS"
+                        "Javascript",
+                    ]
+                },
+                {
+                    "type": "Technical Design ",
+                    "items": [
+                        "AutoCADD",
+                        "Catia",
+                    ]
+                },
+
+        },
+        "education": {
+	    "show_gpa": true,
+            "schools": [
+                {
+                    "degree": "Bachelor of engineering",
+                    "major": "Mechanical",
+                    "institution": "Adhiyamaan college of engineering, Hosur",
+                    "graduation_year": 2020,
+                    "gpa": "7.8/10"
+                },
+                {
+                    "degree": "Diploma in engineering",
+                    "major": "Mechanical",
+                    "institution": "Tirumala polytechnic college, Tiruvannamalai",
+                    "graduation_year": 2016,
+                    "gpa": "7.5/10"
+                }
+            ]
+        },
+        "experience": 
+                {
+                    "title": "Graduate Apperentice Trainee",
+                    "organisation": "Heavy vehicles factory",
+		    "location": "Avadi,60054",
+                    "from": "Jan. 17-2022",
+                    "to": "Jan. 2023",
+                },
+        "projects": 
+                {
+                "title": "Pneumatic three direction modern trailer",
+                "details": "The normal trucks are lifting the trailer in one axis direction, but this modern trailer can lift in three axis direction",
+                "title": "Single minute exchange die",
+                "details": "the implementation of SMED in pressing machine is to reduce the tool loading setup and increasing the production",
+
+        }
+        "field exposure":
+            {
+                "details": "I done my in-plant training at Salem steel plant in production of steel",
+        }
+        "achivements & awards":
+        {
+                "details": "National level technical symposium participated in project expo tronix-2020 held at Karpagam academy of higher education",
+                "details": "Internship done on qualitech industries (20.01.2020 to 31.01.2020)",  
+        }
