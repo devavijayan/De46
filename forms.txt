@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Food choice</title>
+    </head>
+    <body>
+        <form>
+                First name: <input type="text" name="First_name" /><br><br>
+                Last name:  <input type="text" name="Last_name" /><br><br>
+                Address :   <input type="text" name="type" /><br><br>   
+                Pin code:   <input type="text" name="text" /><br><br>
+                Gender :<br>
+                        <label class="radio">
+                            <input type="radio" name="gender" value="male" >Male<br> 
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="gender" value="female" >Female<br> 
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="gender" value="other" >Other<br>
+                        </label>
+                        <br>
+                Choice of Food : <br>
+                        <label class="radio">
+                            <input type="radio" name="food" value="Parota">Parota<br> 
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="gender" value="Dosa" >Dosa<br> 
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="gender" value="Idly" >Idly<br> 
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="gender" value="chapathi" > chapathi<br>   
+                        </label>           
+                        <br>
+                        State:   <input type="text" name="text" /><br><br> 
+                        Country: <input type="text" name="text" /><br><br>           
+                        <table>
+                            <tr>
+                                <th>Food choice</th>
+                                <th>Updation</th>
+                            </tr>
+                            <tr>
+                                <td>Firstname</td><br>
+                                <td>Lastname</td><br>
+                                <td>Address</td><br>
+                                <td>pincode</td><br>
+                                <td>gender</td><br>
+                                <td>choiceoffood</td><br>
+                                <td>state</td><br>
+                                <td>country</td><br>
+                            </tr>
+                        </table>     
+        </form>
+    </body>
+</html>
